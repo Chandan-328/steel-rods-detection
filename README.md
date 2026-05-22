@@ -60,9 +60,6 @@ python detect.py --image path/to/image.jpg --output results/
 - **Training Data**: [Number of images, dataset source]
 - **Performance**: [mAP, precision, recall metrics]
 
-## Results
-
-[Add sample detection results, accuracy metrics, inference time]
 
 ## Project Structure
 
@@ -80,14 +77,3 @@ steel-rods-detection/
     └── sample_images/
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Specify your license - e.g., MIT, Apache 2.0]
-
-## Contact
-
-For questions or issues, please open an issue on GitHub.
